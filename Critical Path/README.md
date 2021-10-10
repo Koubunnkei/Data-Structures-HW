@@ -15,3 +15,4 @@
 
 *main文件主要搭建了一个用例，来显示输出，用例如下图所示*
 
+![image](https://github.com/Koubunnkei/Data-Structures-HW/blob/main/Critical%20Path/IMG_usecase.PNG)
